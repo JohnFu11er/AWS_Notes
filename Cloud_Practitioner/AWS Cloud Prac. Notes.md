@@ -1,3 +1,5 @@
+![video]https://www.youtube.com/watch?v=R1rVTOHWhYc)
+
 ### Lambda
 - pay only for compute time used, and request count
 - one million free lambda calls each month
